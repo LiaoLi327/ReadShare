@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Software\Eclipse\work space\ReadShare-master\.metadata\.plugins\org.eclipse.jdt.core

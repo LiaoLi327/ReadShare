@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="White">#fff</color>
+    <color name="Orange">#ff9900</color>
+     <color name="select">#fff</color>
+     <color name="unselect">#a52a2a</color>
+     <color name="textcolor">#cc0033</color>
+     <color name="radiobtn">#000</color>
+    <color name="black">#000000</color>
+    <color name="green">#32CD32</color>
+    <color name="gray">#BFBFBF</color>
+    <color name="dimgray">#696969</color><!--暗灰色 --> 
+</resources>
